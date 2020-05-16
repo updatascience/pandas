@@ -1,0 +1,1 @@
+<script type="text/javascript" src="http://www.marinetraffic.com/js/embed.js"></script>
